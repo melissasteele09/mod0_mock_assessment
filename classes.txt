@@ -1,0 +1,14 @@
+Class: Boat
+
+Attributes:
+anchorInUse (boolean)
+location (string)
+amountOfFuel (integer)
+passengers (array)
+paintColor (string)
+
+Methods:
+setSail (modifies the anchorInUse and location)
+pickUpCastaway (modifies passengers)
+washBoat (modifies paintColor)
+refillFuel (modifies amountOfFuel)
