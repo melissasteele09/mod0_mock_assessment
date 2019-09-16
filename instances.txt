@@ -1,0 +1,44 @@
+Class: Boat
+
+Attributes:
+anchorInUse (boolean)
+location (string)
+amountOfFuel (integer)
+passengers (array)
+paintColor (string)
+
+Methods:
+setSail (modifies the anchorInUse and location)
+pickUpCastaway (modifies passengers)
+washBoat (modifies paintColor)
+refillFuel (modifies amountOfFuel)
+
+Object: Catamaran
+
+Attributes
+anchorInUse: True
+location: "Key West"
+amountOfFuel: 50%
+passengers: [Melissa, Josh, Halley]
+paintColor: "Whiteish"
+
+Methods:
+setSail: AnchorInUse = False Location = "Open Ocean"
+pickUpCastaway: passengers = [Melissa, Josh, Halley, Tom Hanks]
+washBoat: paintColor = "Sparkling White"
+refillFuel: amountOfFuel = 100%
+
+Object: Pirate Ship
+
+Attributes
+anchorInUse: False
+location: "Skull Island"
+amountOfFuel: 0%
+passengers: [Black Beard, Capt. Hook, Long John Silver]
+paintColor: "Black"
+
+Methods:
+setSail: anchorInUse = False location = "The seven seas"
+pickUpCastaway: passengers = [Black Beard, Capt. Hook, Long John Silver, Jim Bones]
+washBoat: paintColor = "Dark Black"
+refillFuel: amountOfFuel = 0%
