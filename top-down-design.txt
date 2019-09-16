@@ -1,0 +1,82 @@
+Making a Sandwich
+1 Grab plate and utensils
+  1.1 Get Plate
+    1.1.1 Open cabinet
+    1.1.2 Reach up
+    1.1.3 Select plate
+    1.1.4 Close cabinet
+    1.1.5 Go to counter
+    1.1.6 Set plate down
+  1.2 Get butter knife
+    1.2.1 Open drawer
+    1.2.2 Pick up butter knife
+    1.2.3 Close drawer
+    1.2.4 Go to counter where plate is
+    1.2.5 Set down butter knife
+2 Gather toppings
+  2.1 Mustard
+    2.1.1 Open fridge
+    2.1.2 Search for mustard
+    2.1.3 Find mustard
+    2.1.4 Pick up mustard
+    2.1.5 Balance mustard in arm
+    2.1.6 Look for more ingredients
+  2.2 Mayo
+    2.2.1 Search fridge for mayo
+    2.2.2 Find mayo
+    2.2.3 Pick up mayo
+    2.2.4 Walk to counter
+    2.2.5 Place mayo and mustard on counter with plate and utensils
+  2.3 Lettuce
+    2.3.1 Return to fridge
+    2.3.2 Search for lettuce
+    2.3.3 Pick up lettuce
+    2.3.4 Walk to counter
+    2.3.5 Place lettuce on counter
+  2.4 Tomato
+  2.5 Pickles
+3 Toast Bread
+  3.1 Get bread
+    3.1.1 Walk to bread drawer
+    3.1.2 Open drawer
+    3.1.3 Pick up bread bag
+    3.1.4 Close drawer
+    3.1.5 Walk to counter
+    3.1.6 Place bread with other ingredients
+  3.2 Open bread bag
+    3.2.1 Grab bag
+    3.2.2 Untwist the tie
+  3.3 Select two pieces of bread
+    3.3.1 Reach in to bag
+    3.3.2 Grab bread
+  3.4 Walk to toaster
+  3.5 Place bread in toaster
+    3.5.1 Push down lever
+    3.5.2 Wait
+  3.6 Get toast when it pops up
+  3.7 Walk to counter
+  3.8 Place toast on plate
+4 Assemble Sandwich
+  4.1 Separate the two pieces of toast
+  4.2 Add mayo
+    4.2.1 Open jar of mayo
+    4.2.2 Pick up butter knife
+    4.2.3 Stick knife in mayo
+    4.2.4 Remove knife
+    4.2.5 Wipe contents onto toast
+  4.3 Add mustard
+    4.3.1 Shake mustard to get juices mixed in
+    4.3.2 Open top of mustard
+    4.3.3 Squeeze mustard onto toast
+  4.4 Add lettuce
+    4.4.1 Pull of a couple leafs of lettuce
+    4.4.2 Wash lettuce
+      4.4.2.1 Walk to sink
+      4.4.2.2 Turn on water
+      4.4.2.3 Put lettuce under water
+      4.4.2.4 Turn off water
+    4.4.3 Pat lettuce dry
+    4.4.4 Place lettuce onto sandwich
+  4.5 Add tomato
+  4.6 Add pickles
+  4.7 Top with last piece of toast
